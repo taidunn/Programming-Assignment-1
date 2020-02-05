@@ -16,7 +16,7 @@ using System.Collections.Generic;
 
 namespace Programming_Assignment_1
 {
-   class Sorter
+   class SorterTwo
    {
       static void Main(string[] args)
       {
